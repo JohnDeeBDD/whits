@@ -24,3 +24,4 @@ https://www.lankawebsites.com/blog/woocommerce-add-product-directly-cart-using-u
 // setup email
 // redesign theme
 // switch users
+// allow multiple usernames to use same email
