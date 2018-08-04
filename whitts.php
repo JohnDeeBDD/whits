@@ -4,7 +4,7 @@
  Plugin URI: https://whittsgazebos.com/
  Description: Makes selling gazebos fun
  Version: 0.1
- Author: John Dee, George
+ Author: George Young, John Dee
  Author URI: https://generalchicken.net
  */
 
